@@ -1,5 +1,7 @@
 # Projects-Indeed-scrapy
 
+We use 2 groups. 
+
 Group 1 is in San Francisco
 
 We investigate what skills are important in each market but most importantly "why" they might be. Is there anything else different from New York vs San Francisco that we can draw on?
