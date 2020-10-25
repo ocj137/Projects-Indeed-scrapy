@@ -1,6 +1,6 @@
 # Projects-Indeed-scrapy
 
-We use 2 groups. 
+We will use 2 groups. 
 
 Group 1 is in San Francisco
 
