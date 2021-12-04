@@ -1,10 +1,6 @@
 # Projects-Indeed-scrapy
 
-<<<<<<< HEAD
-Will use 2 groups. 
-=======
 We will use 2 groups for this project
->>>>>>> 76caa90de59c58697842d713fa5c874ca94cb480
 
 Group 1 is in San Francisco
 
