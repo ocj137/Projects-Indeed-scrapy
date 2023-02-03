@@ -1,6 +1,6 @@
 # Projects-Indeed-scrapy
 
-Will use 2 groups for this project
+will use 2 groups for this project
 
 Group 1 is in San Francisco
 
